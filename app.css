@@ -7,7 +7,7 @@ body {
 #div1 {
     height: 40vh;
     padding: 10vh;
-    background-color: cadetblue;
+    background-color: rgb(13, 171, 177);
 }
 
 ul {
@@ -17,5 +17,5 @@ ul {
 #div2{
     margin: 0%;
     height: 40vh;
-    background-color: rgb(134, 176, 219);
+    background-color: rgb(152, 153, 153);  
 }
