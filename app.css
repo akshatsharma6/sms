@@ -1,13 +1,24 @@
+
 body {
-    margin: 0;
+    color: #F44336;
+    text-shadow: black 1px 1px;
+    background-image: url("./SMS.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+    background-size: auto;
+}
+
+#SMS {
+    margin: 100;
     text-align: center;
-    background-color: rgb(255, 151, 151);
+    /* background-color: rgb(241, 72, 6); */
 }
 
 #div1 {
-    height: 40vh;
+    height: 22vh;
     padding: 10vh;
-    background-color: rgb(13, 171, 177);
+    /* background-color: rgb(64 240 77); */
 }
 
 ul {
@@ -16,6 +27,16 @@ ul {
 
 #div2{
     margin: 0%;
-    height: 40vh;
-    background-color: rgb(152, 153, 153);  
+    height: auto;
+    /* background-color: rgb(152, 153, 153);   */
+}
+
+img {
+    border: solid;
+    height: 50px;
+    border-radius: 25%;
+}
+
+#nav{
+    width: 100vw;
 }
